@@ -1,0 +1,9 @@
+{
+  "name": "My Name",
+  "secp": "000000000000000000000000000000000000000000000000000000000000000000",
+  "bls": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "website": "https://example.com/",
+  "description": "This is an example",
+  "logo": "https://example.com/example.png",
+  "x": "https://x.com/example"
+}
